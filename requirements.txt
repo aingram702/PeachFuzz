@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+aiohttp==3.9.1
+asyncio
+pytest
+requests
+uvloop; sys_platform != 'win32'
